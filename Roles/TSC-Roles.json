@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "tiktokSendCommand": "tiktok_chat_send",
+  "streamers": {
+    "twitch": [
+      "tanchosenlive"
+    ],
+    "youtube": [
+      "tanchosen"
+    ],
+    "tiktok": [
+      "tanchosen"
+    ],
+    "kick": [
+      "tanchosen"
+    ]
+  },
+  "permanent": {
+    "twitch": {
+      "mods": [
+        "tanchosenlive",
+        "bulletgrub"
+      ],
+      "vips": [
+        "tanchosenlive"
+      ]
+    },
+    "youtube": {
+      "mods": [
+        "tanchosen"
+      ]
+    },
+    "tiktok": {
+      "mods": [
+        "tanchosen",
+        "callmecmarchment",
+        "twothousandn2",
+        "dragon_goddess7",
+        "raphaelll96",
+        "2k0v11"
+      ]
+    },
+    "kick": {
+      "mods": [
+        "tanchosen"
+      ],
+      "vips": [
+        "tanchosen"
+      ]
+    }
+  },
+  "temporary": {
+    "twitch": {
+      "subs": {
+        "tanthebananaman": {
+          "expiresAt": 1771199232306,
+          "source": "twitch-subscriber"
+        },
+        "bunnie_1209": {
+          "expiresAt": 1770416290449,
+          "source": "twitch-subscriber"
+        },
+        "freoderts": {
+          "expiresAt": 1770566755644,
+          "source": "twitch-giftSubscription"
+        },
+        "tha1chapsimon": {
+          "expiresAt": 1771199270138,
+          "source": "twitch-giftSubscription"
+        }
+      }
+    },
+    "youtube": {
+      "members": {}
+    },
+    "tiktok": {
+      "subs": {}
+    },
+    "kick": {
+      "subs": {}
+    }
+  }
+}

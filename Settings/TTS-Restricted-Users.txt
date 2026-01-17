@@ -1,0 +1,10 @@
+# tts restricted users list
+# format (csv): platform, username, type, expiresAtMs, reason
+# platform: twitch | youtube | tiktok | kick
+# type: perm | temp
+# expiresAtMs: epoch milliseconds (only for temp)
+# later lines override earlier lines for the same platform+username
+
+# examples (delete these and add your own):
+# twitch, someuser, perm, , repeated harassment
+# tiktok, anotheruser, temp, 1700000000000, spam

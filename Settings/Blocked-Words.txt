@@ -1,0 +1,75 @@
+# tts blocked words list
+# one entry per line, or use commas
+# lines starting with # or // are ignored
+# single words match by word token, phrases match by substring
+# examples (delete these and add your own):
+# slurword
+# spamword1, spamword2
+# bad phrase here
+
+africoon
+akata
+anal
+beaner
+boob
+camel jockey
+chink
+cock
+cok
+coon
+coonass
+cum
+cums
+cunt
+dick
+doosh
+dune coon
+fag
+fags
+gook
+jap
+jiz
+jungle bunny
+kkk
+kock
+negro
+nig
+niga
+niglet
+nignog
+pecker
+porch monkey
+porn
+pron
+pube
+pubes
+rape
+raped
+rapist
+retard
+retarded
+retards
+rimming
+scat
+semen
+sex
+slut
+smut
+spook
+teets
+tit
+tits
+towel head
+turk
+twat
+wang
+wank
+wetback
+wigger
+willies
+willy
+xxx
+twitch
+tiktok
+snapchat
+youtube
