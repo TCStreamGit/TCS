@@ -3,7 +3,7 @@
   "tiktokSendCommand": "tiktok_chat_send",
   "streamers": {
     "twitch": [
-      "tanchosen live"
+      "tanchosenlive"
     ],
     "youtube": [
       "tanchosen"
