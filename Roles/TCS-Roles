@@ -37,6 +37,10 @@
         "tha1chapsimon": {
           "expiresAt": 1771302526104,
           "source": "twitch-giftSubscription"
+        },
+        "bunnie_1209": {
+          "expiresAt": 1771302667165,
+          "source": "twitch-subscriber"
         }
       }
     },
