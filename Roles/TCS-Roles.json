@@ -75,6 +75,10 @@
         "icefreshy_": {
           "expiresAt": 1771551654308,
           "source": "twitch-giftSubscription"
+        },
+        "julifier_orchid": {
+          "expiresAt": 1771551691024,
+          "source": "twitch-giftSubscription"
         }
       }
     },
