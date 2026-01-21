@@ -67,6 +67,14 @@
         "tha1chapsimon": {
           "expiresAt": 1771199270138,
           "source": "twitch-giftSubscription"
+        },
+        "bulletgrub": {
+          "expiresAt": 1771551654308,
+          "source": "twitch-giftSubscription"
+        },
+        "icefreshy_": {
+          "expiresAt": 1771551654308,
+          "source": "twitch-giftSubscription"
         }
       }
     },
